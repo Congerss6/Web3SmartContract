@@ -1,0 +1,26 @@
+{
+"name": "web3smartgersscontract",
+"version": "1.0.0",
+"description": "Smart Contract Interaction Example",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/Congerss6/Web3SmartContract.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "Congerss6",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
